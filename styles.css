@@ -15,6 +15,27 @@ header ul li {
 header ul li:hover{
   color: #10B981;
 }
+
+
+
+.invisibleMenu {
+  background: #111827;
+  color:white;
+  height:0px;
+  overflow:hidden;
+  transition:  height .8s;
+}
+
+.visibleMenu {
+  background: #111827;
+  color:white;
+  height:200px;
+  transition: height.8s;
+  /*Come back tomorrow and see why this worked*/
+  overflow: hidden;
+
+}
+
 #serviceCard{
   border:1px solid black;
   transition: transform .2s; /* Animation */
@@ -49,4 +70,11 @@ header ul li:hover{
 #projectList img{
   height:390px;
   width:100%;
+}
+
+footer{
+  background: #141E30;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #243B55, #111827);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #243B55, #111827); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
 }
