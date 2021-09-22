@@ -39,10 +39,9 @@ header {
 }
 
 #whyChoose {
-  background: url('https://i.vgy.me/dPXiWh.jpg');
+  background:black;
   background-size: cover;
-  position: right;
-  height:auto;
+  height:auto
 }
 
 #projectList img{
