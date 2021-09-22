@@ -1,3 +1,4 @@
-# web-platform-3rdtpm
+MY portfolio
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-3rdtpm)
+
+Created with tailwind css and html
