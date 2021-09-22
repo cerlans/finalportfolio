@@ -1,7 +1,4 @@
 
-:root {
-  --animate-duration: 1s;
-}
 
 #heroImage {
   background:url('https://i.vgy.me/pTQOnI.jpg');
@@ -11,6 +8,12 @@
 header {
   position: fixed;
   width:100%;
+}
+header ul li {
+  transition: 0.3s;
+}
+header ul li:hover{
+  color: #10B981;
 }
 #serviceCard{
   border:1px solid black;
@@ -22,7 +25,6 @@ header {
   transition: 0.3s;
   
 }
-
 
 #serviceCard:hover{
   background-color: #101721;
