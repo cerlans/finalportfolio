@@ -1,8 +1,9 @@
 
 
 #heroImage {
-  background:url('https://i.vgy.me/pTQOnI.jpg');
+  background:url('worldSmall.jpb');
   background-size: cover;
+  height:auto;
 }
 
 header {
