@@ -1,9 +1,9 @@
 
 
 #heroImage {
-  background:url('worldSmall.jpb');
+  background:url('worldSmall.jpg');
   background-size: cover;
-  height:auto;
+  height:100vh;
 }
 
 header {
