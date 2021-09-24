@@ -79,3 +79,10 @@ footer{
   background: linear-gradient(to left, #243B55, #111827); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   
 }
+
+@media (min-width:801px)  {
+  background:url('worldMedium.jpg');
+  background-size: cover;
+  height:100vh;
+
+}
